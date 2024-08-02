@@ -1,0 +1,5 @@
+Sliding Window has Two types:
+   1 :Fized Size(Easy)
+   2 :Variable Size(Hard)
+
+------------------------------------
